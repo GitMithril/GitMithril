@@ -26,12 +26,12 @@ Building OCR pipelines, data‑driven systems, and modern web apps.
 ## 🚀 Featured Projects
 | Project | Description | Tech |
 |---|---|---|
-| [distributed-urdu-ocr](https://github.com/GitMithril/distributed-urdu-ocr) | End-to-end Urdu OCR pipeline that restores degraded Nastaleeq text with a ResNet34 U-Net, transcribes it via a CNN-Transformer model, and serves inference through FastAPI with optional Hadoop/RunPod deployment. | Python, PyTorch, FastAPI, Hadoop, Docker |
-| [CrimeVision-backend](https://github.com/GitMithril/CrimeVision-backend) | Crime analytics and community-reporting API with Gemini-based prediction endpoints, safest-route computation, and multi-database architecture for operational and user-generated data. | Node.js, Express, Supabase (PostgreSQL), MongoDB, Redis, Gemini API |
-| [Smog-Penalty](https://github.com/GitMithril/Smog-Penalty) | ML-driven solar generation forecasting platform that models weather and pollution impact, with FastAPI inference services and an interactive React dashboard. | Python, FastAPI, scikit-learn, LightGBM, React, TypeScript |
-| [Stronghold_Reckon](https://github.com/GitMithril/Stronghold_Reckon) | 2D tower defense game engineered in C++/SFML with algorithmic enemy navigation (A*/BFS), wave management, and strategy-focused gameplay systems. | C++11, SFML, A*, BFS |
-| [Emergency-Response-App](https://github.com/GitMithril/Emergency-Response-App) | Cross-platform emergency response app built with Expo Router and React Native, integrating location services, voice capabilities, and a Node/Express API backed by MongoDB. | React Native, Expo, TypeScript, Node.js, Express, MongoDB |
-| [NUST_Student_Guide_Chatbot](https://github.com/GitMithril/NUST_Student_Guide_Chatbot) | Retrieval-first academic QA system over NUST handbooks using MinHash/SimHash hybrid retrieval, FastAPI indexing services, and a React analytics interface with LLM-grounded responses. | Python, FastAPI, React, Vite, Tailwind CSS, MinHash/SimHash, OpenRouter |
+| [distributed-urdu-ocr](https://github.com/GitMithril/distributed-urdu-ocr) | End-to-end Urdu OCR pipeline for degraded Nastaleeq text, combining deep restoration and sequence transcription with deployable API inference. | Python, PyTorch, FastAPI, Hadoop, Docker |
+| [CrimeVision-backend](https://github.com/GitMithril/CrimeVision-backend) | Production-focused crime analytics API with community reporting, AI-assisted prediction, and safest-route computation. | Node.js, Express, Supabase (PostgreSQL), MongoDB, Redis, Gemini API |
+| [Smog-Penalty](https://github.com/GitMithril/Smog-Penalty) | ML-powered solar forecasting platform modeling weather and pollution effects through FastAPI services and a React dashboard. | Python, FastAPI, scikit-learn, LightGBM, React, TypeScript |
+| [Stronghold_Reckon](https://github.com/GitMithril/Stronghold_Reckon) | 2D tower defense game built with C++/SFML, featuring algorithmic enemy pathfinding and strategy-driven wave systems. | C++11, SFML, A*, BFS |
+| [Emergency-Response-App](https://github.com/GitMithril/Emergency-Response-App) | Cross-platform emergency response app with geolocation and voice workflows, backed by a Node/Express + MongoDB API. | React Native, Expo, TypeScript, Node.js, Express, MongoDB |
+| [NUST_Student_Guide_Chatbot](https://github.com/GitMithril/NUST_Student_Guide_Chatbot) | Retrieval-first academic QA platform for NUST handbooks, using hybrid LSH search and LLM-grounded responses. | Python, FastAPI, React, Vite, Tailwind CSS, MinHash/SimHash, OpenRouter |
 
 ---
 
