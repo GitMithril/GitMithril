@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm **Abdullah Ejaz** <picture><source media="(prefers-reduced-motion: reduce)" srcset="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png?v8"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" alt="Waving hand" role="img" /></picture>
+# Hi, I'm **Abdullah Ejaz** <picture><source media="(prefers-reduced-motion: reduce)" srcset="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" alt="Waving hand" role="img" /></picture>
 **Software Engineer | AI/ML & Full‑Stack Development**
 
 Building OCR pipelines, data‑driven systems, and modern web apps.
@@ -26,12 +26,12 @@ Building OCR pipelines, data‑driven systems, and modern web apps.
 ## 🚀 Featured Projects
 | Project | Description | Tech |
 |---|---|---|
-| [distributed-urdu-ocr](https://github.com/GitMithril/distributed-urdu-ocr) | End-to-end Urdu OCR pipeline for degraded Nastaleeq text, combining deep restoration and sequence transcription with deployable API inference. | Python, PyTorch, FastAPI, Hadoop, Docker |
-| [CrimeVision-backend](https://github.com/GitMithril/CrimeVision-backend) | Production-focused crime analytics API with community reporting, AI-assisted prediction, and safest-route computation. | Node.js, Express, Supabase (PostgreSQL), MongoDB, Redis, Gemini API |
-| [Smog-Penalty](https://github.com/GitMithril/Smog-Penalty) | ML-powered solar forecasting platform modeling weather and pollution effects through FastAPI services and a React dashboard. | Python, FastAPI, scikit-learn, LightGBM, React, TypeScript |
-| [Stronghold_Reckon](https://github.com/GitMithril/Stronghold_Reckon) | 2D tower defense game built with C++/SFML, featuring algorithmic enemy pathfinding and strategy-driven wave systems. | C++11, SFML, A*, BFS |
+| [distributed-urdu-ocr](https://github.com/GitMithril/distributed-urdu-ocr) | OCR pipeline for degraded Urdu Nastaleeq text with restoration, transcription, and API deployment. | Python, PyTorch, FastAPI, Hadoop, Docker |
+| [CrimeVision-backend](https://github.com/GitMithril/CrimeVision-backend) | Crime analytics backend with community reporting, AI-powered prediction, and safe-route services. | Node.js, Express, Supabase (PostgreSQL), MongoDB, Redis, Gemini API |
+| [Smog-Penalty](https://github.com/GitMithril/Smog-Penalty) | Solar power forecasting platform based on weather and pollution data. | Python, FastAPI, scikit-learn, LightGBM, React, TypeScript |
+| [Stronghold_Reckon](https://github.com/GitMithril/Stronghold_Reckon) | 2D tower defense game built with C++/SFML, featuring strategy-driven wave systems and pathfinding AI. | C++11, SFML |
 | [Emergency-Response-App](https://github.com/GitMithril/Emergency-Response-App) | Cross-platform emergency response app with geolocation and voice workflows, backed by a Node/Express + MongoDB API. | React Native, Expo, TypeScript, Node.js, Express, MongoDB |
-| [NUST_Student_Guide_Chatbot](https://github.com/GitMithril/NUST_Student_Guide_Chatbot) | Retrieval-first academic QA platform for NUST handbooks, using hybrid LSH search and LLM-grounded responses. | Python, FastAPI, React, Vite, Tailwind CSS, MinHash/SimHash, OpenRouter |
+| [NUST_Student_Guide_Chatbot](https://github.com/GitMithril/NUST_Student_Guide_Chatbot) | Retrieval-first academic QA platform using MinHash/SimHash hybrid search and LLM-grounded responses. | Python, FastAPI, React, Vite, Tailwind CSS, OpenRouter |
 
 ---
 
