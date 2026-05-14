@@ -90,11 +90,11 @@ Building OCR pipelines, data‑driven systems, and modern web apps.
 ## 📊 GitHub Stats
 <div align="center">
 
-![Profile Details](https://raw.githubusercontent.com/GitMithril/GitMithril/output/profile-summary-card-output/transparent/0-profile-details.svg)
+![Profile Details](https://raw.githubusercontent.com/GitMithril/GitMithril/main/profile-summary-card-output/transparent/0-profile-details.svg)
 
-![Stats](https://raw.githubusercontent.com/GitMithril/GitMithril/output/profile-summary-card-output/transparent/1-repos-per-language.svg)&nbsp;&nbsp;![Top Languages](https://raw.githubusercontent.com/GitMithril/GitMithril/output/profile-summary-card-output/transparent/2-most-commit-language.svg)
+![Stats](https://raw.githubusercontent.com/GitMithril/GitMithril/main/profile-summary-card-output/transparent/1-repos-per-language.svg)&nbsp;&nbsp;![Top Languages](https://raw.githubusercontent.com/GitMithril/GitMithril/main/profile-summary-card-output/transparent/2-most-commit-language.svg)
 
-![GitHub Stats](https://raw.githubusercontent.com/GitMithril/GitMithril/output/profile-summary-card-output/transparent/3-stats.svg)&nbsp;&nbsp;![Productive Time](https://raw.githubusercontent.com/GitMithril/GitMithril/output/profile-summary-card-output/transparent/4-productive-time.svg)
+![GitHub Stats](https://raw.githubusercontent.com/GitMithril/GitMithril/main/profile-summary-card-output/transparent/3-stats.svg)&nbsp;&nbsp;![Productive Time](https://raw.githubusercontent.com/GitMithril/GitMithril/main/profile-summary-card-output/transparent/4-productive-time.svg)
 
 </div>
 
