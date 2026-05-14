@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" alt="Coding animation" />
+
 # Hi, I'm **Abdullah Ejaz** <picture><source media="(prefers-reduced-motion: reduce)" srcset="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" alt="Waving hand" role="img" /></picture>
 **Software Engineer | AI/ML & Full‑Stack Development**
 
@@ -88,8 +90,11 @@ Building OCR pipelines, data‑driven systems, and modern web apps.
 ## 📊 GitHub Stats
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GitMithril&show_icons=true&hide_title=true&count_private=true&theme=transparent)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GitMithril&layout=compact&theme=transparent)
+![Profile Details](https://raw.githubusercontent.com/GitMithril/GitMithril/output/profile-summary-card-output/transparent/0-profile-details.svg)
+
+![Stats](https://raw.githubusercontent.com/GitMithril/GitMithril/output/profile-summary-card-output/transparent/1-repos-per-language.svg)&nbsp;&nbsp;![Top Languages](https://raw.githubusercontent.com/GitMithril/GitMithril/output/profile-summary-card-output/transparent/2-most-commit-language.svg)
+
+![GitHub Stats](https://raw.githubusercontent.com/GitMithril/GitMithril/output/profile-summary-card-output/transparent/3-stats.svg)&nbsp;&nbsp;![Productive Time](https://raw.githubusercontent.com/GitMithril/GitMithril/output/profile-summary-card-output/transparent/4-productive-time.svg)
 
 </div>
 
@@ -102,4 +107,10 @@ Building OCR pipelines, data‑driven systems, and modern web apps.
 
 ---
 
-![snake animation](https://raw.githubusercontent.com/GitMithril/GitMithril/output/github-contribution-grid-snake.svg)
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GitMithril/GitMithril/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GitMithril/GitMithril/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/GitMithril/GitMithril/output/github-snake.svg" />
+</picture>
+</div>
