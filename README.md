@@ -1,9 +1,14 @@
 <div align="center">
 
-# Hi, I'm **Abdullah Ejaz** 👋  
+# Hi, I'm **Abdullah Ejaz** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" alt="Waving hand" />
 **Software Engineer | AI/ML & Full‑Stack Development**
 
 Building OCR pipelines, data‑driven systems, and modern web apps.
+
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.abdullahejaz.dev/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullah-ejazz/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aejaz.bscs23seecs@seecs.edu.pk)
+![Profile Views](https://komarev.com/ghpvc/?username=GitMithril&label=Profile%20views&color=0e75b6&style=for-the-badge)
 
 </div>
 
@@ -21,12 +26,12 @@ Building OCR pipelines, data‑driven systems, and modern web apps.
 ## 🚀 Featured Projects
 | Project | Description | Tech |
 |---|---|---|
-| [distributed-urdu-ocr](https://github.com/GitMithril/distributed-urdu-ocr) | Hadoop HDFS based Nastaleeq Urdu image restoration & OCR pipeline. | Python, Jupyter, Hadoop |
-| [distributed-urdu-ocr-frontend](https://github.com/GitMithril/distributed-urdu-ocr-frontend) | Frontend for the Urdu OCR pipeline. | TypeScript, React |
-| [CrimeVision-backend](https://github.com/GitMithril/CrimeVision-backend) | Backend for CrimeVision (live). | Node.js |
-| [Crime_Analysis_Frontend](https://github.com/GitMithril/Crime_Analysis_Frontend) | Frontend for crime analysis. | TypeScript |
-| [Smog-Penalty](https://github.com/GitMithril/Smog-Penalty) | Predicts solar power generation & loss from weather data. | Python, Jupyter |
-| [Stronghold_Reckon](https://github.com/GitMithril/Stronghold_Reckon) | 2D tower defense game. | Python |
+| [distributed-urdu-ocr](https://github.com/GitMithril/distributed-urdu-ocr) | End-to-end Urdu OCR system combining ResNet34 U-Net restoration with CNN-Transformer transcription, exposed through a production-ready FastAPI pipeline with optional Hadoop/RunPod deployment. | Python, PyTorch, FastAPI, Hadoop, Docker |
+| [CrimeVision-backend](https://github.com/GitMithril/CrimeVision-backend) | Crime analytics and community-reporting API with Gemini-based prediction endpoints, safest-route computation, and multi-database architecture for operational and user-generated data. | Node.js, Express, Supabase (PostgreSQL), MongoDB, Redis, Gemini API |
+| [Smog-Penalty](https://github.com/GitMithril/Smog-Penalty) | ML-driven solar generation forecasting platform that models weather and pollution impact, with FastAPI inference services and an interactive React dashboard. | Python, FastAPI, scikit-learn, LightGBM, React, TypeScript |
+| [Stronghold_Reckon](https://github.com/GitMithril/Stronghold_Reckon) | 2D tower-defense game engineered in C++/SFML with algorithmic enemy navigation (A*/BFS), wave management, and strategy-focused gameplay systems. | C++11, SFML, A*, BFS |
+| [Emergency-Response-App](https://github.com/GitMithril/Emergency-Response-App) | Cross-platform emergency response app built with Expo Router and React Native, integrating location services, voice capabilities, and a Node/Express API backed by MongoDB. | React Native, Expo, TypeScript, Node.js, Express, MongoDB |
+| [NUST_Student_Guide_Chatbot](https://github.com/GitMithril/NUST_Student_Guide_Chatbot) | Retrieval-first academic QA system over NUST handbooks using MinHash/SimHash hybrid retrieval, FastAPI indexing services, and a React analytics interface with LLM-grounded responses. | Python, FastAPI, React, Vite, Tailwind CSS, MinHash/SimHash, OpenRouter |
 
 ---
 
@@ -87,13 +92,6 @@ Building OCR pipelines, data‑driven systems, and modern web apps.
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GitMithril&layout=compact&theme=transparent)
 
 </div>
-
----
-
-## 🤝 Connect
-- Website: https://www.abdullahejaz.dev/
-- LinkedIn: https://www.linkedin.com/in/abdullah-ejazz/
-- Email: aejaz.bscs23seecs@seecs.edu.pk
 
 ---
 
