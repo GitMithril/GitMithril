@@ -4,24 +4,25 @@
 # Hi, I'm **Abdullah Ejaz** <picture><source media="(prefers-reduced-motion: reduce)" srcset="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" alt="Waving hand" role="img" /></picture>
 **Software Engineer | AI/ML & Full‑Stack Development**
 
-Building OCR pipelines, data‑driven systems, and modern web apps.
+Building solutions, data‑driven systems, and modern web apps.
 
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.abdullahejaz.dev/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullah-ejazz/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aejaz.bscs23seecs@seecs.edu.pk)
 ![Profile Views](https://komarev.com/ghpvc/?username=GitMithril&label=Profile%20views&color=0e75b6&style=for-the-badge)
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="300" alt="Coding animation" />
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" alt="Coding animation" />
 
 </div>
 
----
 
 ## 🧐 About Me
-- Building a distributed Nastaleeq Urdu OCR and restoration pipeline.
-- Developed CrimeVision (backend + frontend) with a live deployment.
-- Working on data‑driven models for weather‑based solar power prediction.
-- Interested in computer vision, applied ML, and full‑stack product work.
+- CS undergraduate at NUST passionate about building practical AI and full-stack systems.
+- Interested in AI Solutions, machine learning, distributed computing, and scalable backend architecture.
+- Enjoy turning research-oriented ideas into usable products and live deployments.
+- Comfortable working across the stack — from model training and data pipelines to backend APIs and frontend development.
+- Experienced with TypeScript, Python, MERN, Next.js, FastAPI, PostgreSQL, MongoDB, Redis, and modern ML/DL workflows.
+- interest in UI/UX, system design, and performance-oriented engineering.
 - Open to collaboration on AI + web projects.
 
 ---
