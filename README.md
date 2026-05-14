@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm **Abdullah Ejaz** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" alt="Waving hand" role="img" />
+# Hi, I'm **Abdullah Ejaz** <picture><source media="(prefers-reduced-motion: reduce)" srcset="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png?v8"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" alt="Waving hand" role="img" /></picture>
 **Software Engineer | AI/ML & Full‑Stack Development**
 
 Building OCR pipelines, data‑driven systems, and modern web apps.
