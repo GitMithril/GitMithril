@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm **Abdullah Ejaz** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" alt="Waving hand" />
+# Hi, I'm **Abdullah Ejaz** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" alt="Waving hand" role="img" />
 **Software Engineer | AI/ML & Full‑Stack Development**
 
 Building OCR pipelines, data‑driven systems, and modern web apps.
@@ -26,7 +26,7 @@ Building OCR pipelines, data‑driven systems, and modern web apps.
 ## 🚀 Featured Projects
 | Project | Description | Tech |
 |---|---|---|
-| [distributed-urdu-ocr](https://github.com/GitMithril/distributed-urdu-ocr) | End-to-end Urdu OCR system combining ResNet34 U-Net restoration with CNN-Transformer transcription, exposed through a production-ready FastAPI pipeline with optional Hadoop/RunPod deployment. | Python, PyTorch, FastAPI, Hadoop, Docker |
+| [distributed-urdu-ocr](https://github.com/GitMithril/distributed-urdu-ocr) | End-to-end Urdu OCR pipeline that restores degraded Nastaleeq text with a ResNet34 U-Net, transcribes it via a CNN-Transformer model, and serves inference through FastAPI with optional Hadoop/RunPod deployment. | Python, PyTorch, FastAPI, Hadoop, Docker |
 | [CrimeVision-backend](https://github.com/GitMithril/CrimeVision-backend) | Crime analytics and community-reporting API with Gemini-based prediction endpoints, safest-route computation, and multi-database architecture for operational and user-generated data. | Node.js, Express, Supabase (PostgreSQL), MongoDB, Redis, Gemini API |
 | [Smog-Penalty](https://github.com/GitMithril/Smog-Penalty) | ML-driven solar generation forecasting platform that models weather and pollution impact, with FastAPI inference services and an interactive React dashboard. | Python, FastAPI, scikit-learn, LightGBM, React, TypeScript |
 | [Stronghold_Reckon](https://github.com/GitMithril/Stronghold_Reckon) | 2D tower defense game engineered in C++/SFML with algorithmic enemy navigation (A*/BFS), wave management, and strategy-focused gameplay systems. | C++11, SFML, A*, BFS |
